@@ -24,7 +24,7 @@ we used HTML, CSS, JS languages for building this website.
 
 # Our Team
 We were six members in team.
-Mohd Nawaz Khan
-P Selvakumar
-Riyazuddin Shaikh
-P Kartick
+### Mohd Nawaz Khan,
+### P Selvakumar,
+### Riyazuddin Shaikh,
+### P Kartick.
