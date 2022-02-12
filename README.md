@@ -3,6 +3,7 @@
 # [Site Visit](https://selva658.github.io/Pantaloons/delivery.html)
 
 # About the website
+A web application to buy daily lifestyle products.
 This project contains six pages, first page is home page it has all the categories and brands with navbar. Second page is login page where user can login. third page is perticular for products page, in this page you can select proudct of your likes and add them into cart and favourite section. Fourth page is cart page where you can see all cart items with details. Fifth page is address page where you can provide address details, and lastly payment page where you can find options to pay and purchase then it will show delivery page.
 
 # Tech stack used:
